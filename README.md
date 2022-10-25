@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @syedzayyan
-- 👀 I’m interested in Bioinformatics
-- 🌱 I’m currently learning Machine Learning and Pharmacology
-- 💞️ I’m looking to collaborate on literally anything to expand my horizons
-- 📫 Reach me via email masudzayyan@gmail.com
+- 👋 Salam, I’m Syed Zayyan Masud
+- 👀 I’m interested in everything life.
+- 🌱 I happen to have a degree in Pharmacology from QMUL, but I am interested in programming. I have had experiences in web development
+- ✨ I have a few scripts and web dev projects relating to Biological Sciences, have a look maybe and contribute. :)
 
 <!---
 syedzayyan/syedzayyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
